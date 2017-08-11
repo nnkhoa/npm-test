@@ -1,0 +1,28 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "testing npm (further description will be added when a project idea come to mind)",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnkhoa/npm-test.git"
+  },
+  "keywords": [
+    "npm-test"
+  ],
+  "author": "Khoa Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnkhoa/npm-test/issues"
+  },
+  "homepage": "https://github.com/nnkhoa/npm-test#readme"
+}
